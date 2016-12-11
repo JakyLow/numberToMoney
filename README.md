@@ -30,6 +30,11 @@ print("Today I donate to charity \(money).")
 ## Identifiers
 You can get all identifiers in Xcode - use `Locale.availableIdentifiers`. The list contains a set of values. identifier itself consists of the `isoLanguageCodes` and the `isoRegionCodes`.
 
+    Identifiers = isoLanguageCodes_isoRegionCodes
+For example the Russian ruble is *ru_RU*
+
+Read [this](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for information about `isoLanguageCodes` and [this](https://en.wikipedia.org/wiki/ISO_3166-1) for `isoRegionCodes`.
+
 ## Author
 Maxim Mazhuga [@JakyLow](https://www.facebook.com/maxim.mazhuga). 
 
