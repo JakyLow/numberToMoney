@@ -29,7 +29,7 @@
 
 import Foundation
 
-public func NumberToMoney(number:Double, identifier:String)->String {
+public func numberToMoney(number:Double, identifier:String)->String {
     let formatter = NumberFormatter()
     formatter.numberStyle = .currency
     formatter.locale = Locale(identifier: identifier)
