@@ -2,7 +2,7 @@
 [![CocoaPods](https://img.shields.io/cocoapods/p/AFNetworking.svg?style=plastic)](https://github.com/JakyLow/numberToMoney)
 
 # numberToMoney
-> numberToMoney is the simple Swift function to convert any number into a currency format.
+> numberToMoney is the simple Swift function to convert any number into a currency/money format.
 
 ## Usage
 Just add [numberToMoney.swift](https://github.com/JakyLow/numberToMoney/blob/master/numberToMoney.swift) file in your project and use `numberToMoney()` function with double numbers.
