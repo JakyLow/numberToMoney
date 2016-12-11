@@ -13,7 +13,8 @@ let money = NumberToMoney(number: number, identifier: identifier)
 print("Today I donate to charity \(money).")
 ```
 
-Short version
+
+Short version:
 ```swift
 let money = NumberToMoney(number: 11_299.99, identifier: "en_US")
 print("Today I donate to charity \(money).")
