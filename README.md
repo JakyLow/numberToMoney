@@ -5,7 +5,7 @@
 > numberToMoney is the simple Swift function to convert any number into a currency format.
 
 ## Usage
-Just add [numberToMoney.swift](https://github.com/JakyLow/numberToMoney/blob/master/numberToMoney.swift) file in your project and use **numberToMoney()** function with double numbers.
+Just add [numberToMoney.swift](https://github.com/JakyLow/numberToMoney/blob/master/numberToMoney.swift) file in your project and use `numberToMoney()` function with double numbers.
 
 
 
@@ -26,6 +26,8 @@ print("Today I donate to charity \(money).")
 
 ### Live example:
 ![](https://github.com/JakyLow/numberToMoney/blob/master/example.png?raw=true)
+
+## Identifiers
 
 
 ## Author
