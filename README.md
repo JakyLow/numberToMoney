@@ -28,7 +28,7 @@ print("Today I donate to charity \(money).")
 ![](https://github.com/JakyLow/numberToMoney/blob/master/example.png?raw=true)
 
 ## Identifiers
-You can get all identifiers in Xcode - use `Locale.availableIdentifiers`. The list contains a set of values. identifier itself consists of the `isoLanguageCodes` and the `isoRegionCodes`.
+You can get all identifiers in Xcode - use `Locale.availableIdentifiers`. The list contains a set of values. Identifier itself consists of the `isoLanguageCodes` and the `isoRegionCodes`.
 
     Identifiers = isoLanguageCodes_isoRegionCodes
 For example the Russian ruble is *ru_RU*
