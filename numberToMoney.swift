@@ -23,6 +23,9 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
+//
+// IF YOU NEED HELP WITH an identifier then read README file
+// https://github.com/JakyLow/numberToMoney/blob/master/README.md
 
 import Foundation
 
